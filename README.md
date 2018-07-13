@@ -8,9 +8,9 @@ I took notes based on the videos tutorials at [educator.com](https://www.educato
 # Table of Contents for Notes
 #### 1. Introduction
 1. Intro to Macroeconomics
-1. Comparative Advantage & Trade
-1. Supply & Demand
-1. Changes in Supply and Demand
+2. Comparative Advantage & Trade
+3. Supply & Demand
+4. Changes in Supply and Demand
 
 #### 2. Measurements of Economic Performances
 1. Gross Domestic Product
