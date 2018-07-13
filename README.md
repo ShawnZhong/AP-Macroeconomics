@@ -1,10 +1,11 @@
 # AP Macroeconomics
-Notes and Exercises on AP Macroeconomics.
+Notes and Exercises on Advanced Placement Macroeconomics
+
 Your comments and criticism are greatly welcomed.
 
-Video Link: https://www.educator.com/economics/ap-macroeconomics/park/
+I took notes based on the videos tutorials at [educator.com](https://www.educator.com/economics/ap-macroeconomics/park/)
 
-# Table of Contents
+# Table of Contents for Notes
 #### 1. Introduction
 1. Intro to Macroeconomics
 1. Comparative Advantage & Trade
@@ -43,3 +44,5 @@ Video Link: https://www.educator.com/economics/ap-macroeconomics/park/
 
 #### 8. AP Test
 1. Major Graphs Review
+
+# Table of Contents for Exercises
