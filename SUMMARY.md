@@ -30,6 +30,8 @@
 
 ---
 ### Exercises
+* [Sample Questions](Sample Questions.md)
+* [Practice Exam Multiple Choice](Practice Exam Multiple Choice.md)
 * [1995 Multiple Choice](1995 Multiple Choice.md)
 * [2000 Multiple Choice](2000 Multiple Choice.md)
 * [2005 Multiple Choice](2005 Multiple Choice.md)
@@ -44,5 +46,3 @@
 * [2014 Free Response](2014 Free Response.md)
 * [2015 Free Response](2015 Free Response.md)
 * [2016 Free Response](2016 Free Response.md)
-* [Practice Exam Multiple Choice](Practice Exam Multiple Choice.md)
-* [Sample Questions](Sample Questions.md)

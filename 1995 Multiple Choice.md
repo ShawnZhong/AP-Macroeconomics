@@ -98,9 +98,9 @@ cf c = a + MPC Ac = MPC x Ayd Household current disposable income, Yd
 
 # Question 36
 
-  -   **Equilibrium output \< Potential output: Recessionary gap**
+  -   **Equilibrium output < Potential output: Recessionary gap**
 
-  -   **Equilibrium output \> Potential output: Inflationary gap**
+  -   **Equilibrium output > Potential output: Inflationary gap**
 
   -   **Spending Multiplier = 1/(1-MPC)**
 

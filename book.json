@@ -1,10 +1,5 @@
 {
 	"author": "Shawn Zhong <public@shawnzhong.com>",
-	"links": {
-		"sidebar": {
-			"Shawn's Blog": "https://www.shawnzhong.com"
-		}
-	},
 	"plugins": [
 		"mathjax",
 		"meta"
