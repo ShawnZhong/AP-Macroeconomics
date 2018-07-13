@@ -8,136 +8,136 @@ I took notes based on the videos tutorials at [educator.com](https://www.educato
 Feel free to visit my website [shawnzhong.com](https://shawnzhong.com)
 
 # Past Exams
-[Free Response 2000](/exams/Free Response 2000.pdf)
+<a href="./exams/Free Response 2000.pdf"  target="_blank" >Free Response 2000</a>
 
-[Free Response 2001](/exams/Free Response 2001.pdf)
+<a href="./exams/Free Response 2001.pdf"  target="_blank" >Free Response 2001</a>
 
-[Free Response 2002 Form B](/exams/Free Response 2002 %28Form B%29.pdf)
+<a href="./exams/Free Response 2002 (Form B).pdf"  target="_blank" >Free Response 2002 Form B</a>
 
-[Free Response 2002](/exams/Free Response 2002.pdf)
+<a href="./exams/Free Response 2002.pdf"  target="_blank" >Free Response 2002</a>
 
-[Free Response 2003 Form B](/exams/Free Response 2003 %28Form B%29.pdf)
+<a href="./exams/Free Response 2003 (Form B).pdf"  target="_blank" >Free Response 2003 Form B</a>
 
-[Free Response 2003](/exams/Free Response 2003.pdf)
+<a href="./exams/Free Response 2003.pdf"  target="_blank" >Free Response 2003</a>
 
-[Free Response 2004 Form B](/exams/Free Response 2004 %28Form B%29.pdf)
+<a href="./exams/Free Response 2004 (Form B).pdf"  target="_blank" >Free Response 2004 Form B</a>
 
-[Free Response 2004](/exams/Free Response 2004.pdf)
+<a href="./exams/Free Response 2004.pdf"  target="_blank" >Free Response 2004</a>
 
-[Free Response 2005 Form B](/exams/Free Response 2005 %28Form B%29.pdf)
+<a href="./exams/Free Response 2005 (Form B).pdf"  target="_blank" >Free Response 2005 Form B</a>
 
-[Free Response 2005](/exams/Free Response 2005.pdf)
+<a href="./exams/Free Response 2005.pdf"  target="_blank" >Free Response 2005</a>
 
-[Free Response 2006 Form B](/exams/Free Response 2006 %28Form B%29.pdf)
+<a href="./exams/Free Response 2006 (Form B).pdf"  target="_blank" >Free Response 2006 Form B</a>
 
-[Free Response 2006](/exams/Free Response 2006.pdf)
+<a href="./exams/Free Response 2006.pdf"  target="_blank" >Free Response 2006</a>
 
-[Free Response 2007 Form B](/exams/Free Response 2007 %28Form B%29.pdf)
+<a href="./exams/Free Response 2007 (Form B).pdf"  target="_blank" >Free Response 2007 Form B</a>
 
-[Free Response 2007](/exams/Free Response 2007.pdf)
+<a href="./exams/Free Response 2007.pdf"  target="_blank" >Free Response 2007</a>
 
-[Free Response 2008 Form B](/exams/Free Response 2008 %28Form B%29.pdf)
+<a href="./exams/Free Response 2008 (Form B).pdf"  target="_blank" >Free Response 2008 Form B</a>
 
-[Free Response 2008](/exams/Free Response 2008.pdf)
+<a href="./exams/Free Response 2008.pdf"  target="_blank" >Free Response 2008</a>
 
-[Free Response 2009 Form B](/exams/Free Response 2009 %28Form B%29.pdf)
+<a href="./exams/Free Response 2009 (Form B).pdf"  target="_blank" >Free Response 2009 Form B</a>
 
-[Free Response 2009](/exams/Free Response 2009.pdf)
+<a href="./exams/Free Response 2009.pdf"  target="_blank" >Free Response 2009</a>
 
-[Free Response 2010 Form B](/exams/Free Response 2010 %28Form B%29.pdf)
+<a href="./exams/Free Response 2010 (Form B).pdf"  target="_blank" >Free Response 2010 Form B</a>
 
-[Free Response 2010](/exams/Free Response 2010.pdf)
+<a href="./exams/Free Response 2010.pdf"  target="_blank" >Free Response 2010</a>
 
-[Free Response 2011 Form B](/exams/Free Response 2011 %28Form B%29.pdf)
+<a href="./exams/Free Response 2011 (Form B).pdf"  target="_blank" >Free Response 2011 Form B</a>
 
-[Free Response 2011](/exams/Free Response 2011.pdf)
+<a href="./exams/Free Response 2011.pdf"  target="_blank" >Free Response 2011</a>
 
-[Free Response 2012](/exams/Free Response 2012.pdf)
+<a href="./exams/Free Response 2012.pdf"  target="_blank" >Free Response 2012</a>
 
-[Free Response 2013](/exams/Free Response 2013.pdf)
+<a href="./exams/Free Response 2013.pdf"  target="_blank" >Free Response 2013</a>
 
-[Free Response 2014](/exams/Free Response 2014.pdf)
+<a href="./exams/Free Response 2014.pdf"  target="_blank" >Free Response 2014</a>
 
-[Free Response 2015](/exams/Free Response 2015.pdf)
+<a href="./exams/Free Response 2015.pdf"  target="_blank" >Free Response 2015</a>
 
-[Free Response 2016](/exams/Free Response 2016.pdf)
+<a href="./exams/Free Response 2016.pdf"  target="_blank" >Free Response 2016</a>
 
-[Practice Exams](/exams/Practice Exams.pdf)
+<a href="./exams/Practice Exams.pdf"  target="_blank" >Practice Exams</a>
 
-[Released Exams 1960](/exams/Released Exams 1960.pdf)
+<a href="./exams/Released Exams 1960.pdf"  target="_blank" >Released Exams 1960</a>
 
-[Released Exams 1990](/exams/Released Exams 1990.pdf)
+<a href="./exams/Released Exams 1990.pdf"  target="_blank" >Released Exams 1990</a>
 
-[Released Exams 1995](/exams/Released Exams 1995.pdf)
+<a href="./exams/Released Exams 1995.pdf"  target="_blank" >Released Exams 1995</a>
 
-[Released Exams 2000 Answers](/exams/Released Exams 2000 Answers.htm)
+<a href="./exams/Released Exams 2000 Answers.htm"  target="_blank" >Released Exams 2000 Answers</a>
 
-[Released Exams 2000](/exams/Released Exams 2000.pdf)
+<a href="./exams/Released Exams 2000.pdf"  target="_blank" >Released Exams 2000</a>
 
-[Released Exams 2005](/exams/Released Exams 2005.pdf)
+<a href="./exams/Released Exams 2005.pdf"  target="_blank" >Released Exams 2005</a>
 
-[Released Exams 2008](/exams/Released Exams 2008.pdf)
+<a href="./exams/Released Exams 2008.pdf"  target="_blank" >Released Exams 2008</a>
 
-[Released Exams 2010](/exams/Released Exams 2010.pdf)
+<a href="./exams/Released Exams 2010.pdf"  target="_blank" >Released Exams 2010</a>
 
-[Released Exams 2011](/exams/Released Exams 2011.pdf)
+<a href="./exams/Released Exams 2011.pdf"  target="_blank" >Released Exams 2011</a>
 
-[Released Exams 2012](/exams/Released Exams 2012.pdf)
+<a href="./exams/Released Exams 2012.pdf"  target="_blank" >Released Exams 2012</a>
 
-[Released Exams](/exams/Released Exams.pdf)
+<a href="./exams/Released Exams.pdf"  target="_blank" >Released Exams</a>
 
-[Scoring Guidelines 1999](/exams/Scoring Guidelines 1999.pdf)
+<a href="./exams/Scoring Guidelines 1999.pdf"  target="_blank" >Scoring Guidelines 1999</a>
 
-[Scoring Guidelines 2000](/exams/Scoring Guidelines 2000.pdf)
+<a href="./exams/Scoring Guidelines 2000.pdf"  target="_blank" >Scoring Guidelines 2000</a>
 
-[Scoring Guidelines 2001](/exams/Scoring Guidelines 2001.pdf)
+<a href="./exams/Scoring Guidelines 2001.pdf"  target="_blank" >Scoring Guidelines 2001</a>
 
-[Scoring Guidelines 2002 Form B](/exams/Scoring Guidelines 2002 %28Form B%29.pdf)
+<a href="./exams/Scoring Guidelines 2002 (Form B).pdf"  target="_blank" >Scoring Guidelines 2002 Form B</a>
 
-[Scoring Guidelines 2002](/exams/Scoring Guidelines 2002.pdf)
+<a href="./exams/Scoring Guidelines 2002.pdf"  target="_blank" >Scoring Guidelines 2002</a>
 
-[Scoring Guidelines 2003 Form B](/exams/Scoring Guidelines 2003 %28Form B%29.pdf)
+<a href="./exams/Scoring Guidelines 2003 (Form B).pdf"  target="_blank" >Scoring Guidelines 2003 Form B</a>
 
-[Scoring Guidelines 2003](/exams/Scoring Guidelines 2003.pdf)
+<a href="./exams/Scoring Guidelines 2003.pdf"  target="_blank" >Scoring Guidelines 2003</a>
 
-[Scoring Guidelines 2004 Form B](/exams/Scoring Guidelines 2004 %28Form B%29.pdf)
+<a href="./exams/Scoring Guidelines 2004 (Form B).pdf"  target="_blank" >Scoring Guidelines 2004 Form B</a>
 
-[Scoring Guidelines 2004](/exams/Scoring Guidelines 2004.pdf)
+<a href="./exams/Scoring Guidelines 2004.pdf"  target="_blank" >Scoring Guidelines 2004</a>
 
-[Scoring Guidelines 2005 Form B](/exams/Scoring Guidelines 2005 %28Form B%29.pdf)
+<a href="./exams/Scoring Guidelines 2005 (Form B).pdf"  target="_blank" >Scoring Guidelines 2005 Form B</a>
 
-[Scoring Guidelines 2005](/exams/Scoring Guidelines 2005.pdf)
+<a href="./exams/Scoring Guidelines 2005.pdf"  target="_blank" >Scoring Guidelines 2005</a>
 
-[Scoring Guidelines 2006 Form B](/exams/Scoring Guidelines 2006 %28Form B%29.pdf)
+<a href="./exams/Scoring Guidelines 2006 (Form B).pdf"  target="_blank" >Scoring Guidelines 2006 Form B</a>
 
-[Scoring Guidelines 2006](/exams/Scoring Guidelines 2006.pdf)
+<a href="./exams/Scoring Guidelines 2006.pdf"  target="_blank" >Scoring Guidelines 2006</a>
 
-[Scoring Guidelines 2007 Form B](/exams/Scoring Guidelines 2007 %28Form B%29.pdf)
+<a href="./exams/Scoring Guidelines 2007 (Form B).pdf"  target="_blank" >Scoring Guidelines 2007 Form B</a>
 
-[Scoring Guidelines 2007](/exams/Scoring Guidelines 2007.pdf)
+<a href="./exams/Scoring Guidelines 2007.pdf"  target="_blank" >Scoring Guidelines 2007</a>
 
-[Scoring Guidelines 2008 Form B](/exams/Scoring Guidelines 2008 %28Form B%29.pdf)
+<a href="./exams/Scoring Guidelines 2008 (Form B).pdf"  target="_blank" >Scoring Guidelines 2008 Form B</a>
 
-[Scoring Guidelines 2008](/exams/Scoring Guidelines 2008.pdf)
+<a href="./exams/Scoring Guidelines 2008.pdf"  target="_blank" >Scoring Guidelines 2008</a>
 
-[Scoring Guidelines 2009 Form B](/exams/Scoring Guidelines 2009 %28Form B%29.pdf)
+<a href="./exams/Scoring Guidelines 2009 (Form B).pdf"  target="_blank" >Scoring Guidelines 2009 Form B</a>
 
-[Scoring Guidelines 2009](/exams/Scoring Guidelines 2009.pdf)
+<a href="./exams/Scoring Guidelines 2009.pdf"  target="_blank" >Scoring Guidelines 2009</a>
 
-[Scoring Guidelines 2010 Form B](/exams/Scoring Guidelines 2010 %28Form B%29.pdf)
+<a href="./exams/Scoring Guidelines 2010 (Form B).pdf"  target="_blank" >Scoring Guidelines 2010 Form B</a>
 
-[Scoring Guidelines 2010](/exams/Scoring Guidelines 2010.pdf)
+<a href="./exams/Scoring Guidelines 2010.pdf"  target="_blank" >Scoring Guidelines 2010</a>
 
-[Scoring Guidelines 2011 Form B](/exams/Scoring Guidelines 2011 %28Form B%29.pdf)
+<a href="./exams/Scoring Guidelines 2011 (Form B).pdf"  target="_blank" >Scoring Guidelines 2011 Form B</a>
 
-[Scoring Guidelines 2011](/exams/Scoring Guidelines 2011.pdf)
+<a href="./exams/Scoring Guidelines 2011.pdf"  target="_blank" >Scoring Guidelines 2011</a>
 
-[Scoring Guidelines 2012](/exams/Scoring Guidelines 2012.pdf)
+<a href="./exams/Scoring Guidelines 2012.pdf"  target="_blank" >Scoring Guidelines 2012</a>
 
-[Scoring Guidelines 2013](/exams/Scoring Guidelines 2013.pdf)
+<a href="./exams/Scoring Guidelines 2013.pdf"  target="_blank" >Scoring Guidelines 2013</a>
 
-[Scoring Guidelines 2014](/exams/Scoring Guidelines 2014.pdf)
+<a href="./exams/Scoring Guidelines 2014.pdf"  target="_blank" >Scoring Guidelines 2014</a>
 
-[Scoring Guidelines 2015](/exams/Scoring Guidelines 2015.pdf)
+<a href="./exams/Scoring Guidelines 2015.pdf"  target="_blank" >Scoring Guidelines 2015</a>
 
-[Scoring Guidelines 2016](/exams/Scoring Guidelines 2016.pdf)
+<a href="./exams/Scoring Guidelines 2016.pdf"  target="_blank" >Scoring Guidelines 2016</a>
