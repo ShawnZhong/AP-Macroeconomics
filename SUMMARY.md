@@ -30,4 +30,19 @@
 
 ---
 ### Exercises
-* [Practice Questions](Practice Questions.md)
+* [1995 Multiple Choice](1995 Multiple Choice.md)
+* [2000 Multiple Choice](2000 Multiple Choice.md)
+* [2005 Multiple Choice](2005 Multiple Choice.md)
+* [2008 Free Response Form B](2008 Free Response (Form B).md)
+* [2008 Free Response](2008 Free Response.md)
+* [2009 Free Response Form B](2009 Free Response (Form B).md)
+* [2009 Free Response](2009 Free Response.md)
+* [2010 Multiple Choice](2010 Multiple Choice.md)
+* [2012 Free Response](2012 Free Response.md)
+* [2012 Multiple Choice](2012 Multiple Choice.md)
+* [2013 Free Response](2013 Free Response.md)
+* [2014 Free Response](2014 Free Response.md)
+* [2015 Free Response](2015 Free Response.md)
+* [2016 Free Response](2016 Free Response.md)
+* [Practice Exam Multiple Choice](Practice Exam Multiple Choice.md)
+* [Sample Questions](Sample Questions.md)
