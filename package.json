@@ -10,6 +10,7 @@
   "homepage": "https://github.com/ShawnZhong/AP-Macroeconomics#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-mathjax": "^1.1.2"
+    "gitbook-plugin-mathjax": "^1.1.2",
+    "gitbook-plugin-meta": "^0.1.12"
   }
 }
