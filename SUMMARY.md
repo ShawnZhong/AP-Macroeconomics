@@ -1,0 +1,23 @@
+# AP Macroeconomics
+
+* [2.1 Gross Domestic Product](2.1 Gross Domestic Product.md)
+* [2.2 Unemployment](2.2 Unemployment.md)
+* [2.3 Inflation](2.3 Inflation.md)
+* [3.1 Aggregate Demand](3.1 Aggregate Demand.md)
+* [3.2 Aggregate Supply](3.2 Aggregate Supply.md)
+* [3.3 Aggregate Supply & Demand](3.3 Aggregate Supply & Demand.md)
+* [3.4 Fiscal Policy & The Multiplier](3.4 Fiscal Policy & The Multiplier.md)
+* [4.1 Saving, Investment & the Financial System](4.1 Saving, Investment & the Financial System.md)
+* [4.2 The Definition & Time Value of Money](4.2 The Definition & Time Value of Money.md)
+* [4.3 Banking & Money Creation](4.3 Banking & Money Creation.md)
+* [4.4 The Federal Reserve & Monetary Policy](4.4 The Federal Reserve & Monetary Policy.md)
+* [4.5 The Money Market](4.5 The Money Market.md)
+* [4.6 The Market for Loanable Funds](4.6 The Market for Loanable Funds.md)
+* [5.1 Budget Deficits & the National Debt](5.1 Budget Deficits & the National Debt.md)
+* [5.2 Inflation & Unemployment](5.2 Inflation & Unemployment.md)
+* [6.1 Economic Growth](6.1 Economic Growth.md)
+* [6.2 Balance of Payments](6.2 Balance of Payments.md)
+* [7.1 Foreign Exchange Market](7.1 Foreign Exchange Market.md)
+* [8.1 Major Graphs Review](8.1 Major Graphs Review.md)
+---
+* [Practice Questions](Practice Questions.md)
