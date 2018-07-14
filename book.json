@@ -1,8 +1,8 @@
 {
 	"author": "Shawn Zhong <public@shawnzhong.com>",
 	"plugins": [
-		"mathjax",
-		"meta"
+		"meta",
+		"mathjax"
 	],
 	"pluginsConfig": {
 		"meta": {

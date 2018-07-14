@@ -254,7 +254,7 @@
   -   Workers would now accept lower wage increases which moved the SRAS
       curve right, increasing real GDP.
 
-  ![Aggregate price level 1. An initial positive demand shock... \[RAS
+  ![Aggregate price level 1. An initial positive demand shock... RAS
   P3 P2 PI Potential —Yl output ADI 3. ...until an eventual rise in
   nominal wages in the long run reduces short-run aggregate supply and
   moves the economy back to potential output. SRAS2 susl 2. ...increases
