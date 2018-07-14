@@ -1,4 +1,4 @@
-# AP Macroeconomics @ [macro.shawnzhong.com](https://macro.shawnzhong.com)
+# [AP Macroeconomics](https://macro.shawnzhong.com)
 Notes and Exercises on Advanced Placement Macroeconomics
 
 Your comments and criticism are greatly welcomed.
