@@ -2,7 +2,7 @@
 	"author": "Shawn Zhong <public@shawnzhong.com>",
 	"plugins": [
 		"meta",
-		"mathjax"
+		"katex"
 	],
 	"pluginsConfig": {
 		"meta": {
