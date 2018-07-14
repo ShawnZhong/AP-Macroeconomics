@@ -1,3 +1,5 @@
+<a href="./exams/Sample Questions.pdf"  target="_blank" >Sample Questions</a>
+
 # Question 1 
 
   -   **Labor-hours is the input NOT the output **

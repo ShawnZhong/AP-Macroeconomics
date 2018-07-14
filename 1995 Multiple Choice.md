@@ -1,3 +1,5 @@
+<a href="./exams/Released Exam 1995.pdf"  target="_blank" >Released Exam 1995</a>
+
 # Question 2
 
   -   **Real GDP = Nominal GDP - Inflation**

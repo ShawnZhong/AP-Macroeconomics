@@ -1,3 +1,7 @@
+<a href="./exams/Free Response 2013.pdf"  target="_blank" >Free Response 2013</a>
+
+<a href="./exams/Scoring Guidelines 2013.pdf"  target="_blank" >Scoring Guidelines 2013</a>
+
 # Question 1 (b)
 
   -   Graph of the money market vs Graph of the loanable funds market

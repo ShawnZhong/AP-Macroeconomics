@@ -1,3 +1,7 @@
+<a href="./exams/Free Response 2009.pdf"  target="_blank" >Free Response 2009</a>
+
+<a href="./exams/Scoring Guidelines 2009.pdf"  target="_blank" >Scoring Guidelines 2009</a>
+
 # Question 1 (d)
 
   -   Money Supply in the graph of the money market is vertical

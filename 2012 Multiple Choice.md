@@ -1,3 +1,5 @@
+<a href="./exams/Released Exam 2012.pdf"  target="_blank" >Released Exam 2012</a>
+
 # Question 9
 
   -   The official unemployment rate understates the unemployment level

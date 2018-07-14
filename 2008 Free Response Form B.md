@@ -1,3 +1,7 @@
+<a href="./exams/Free Response 2008 (Form B).pdf"  target="_blank" >Free Response 2008 Form B</a>
+
+<a href="./exams/Scoring Guidelines 2008 (Form B).pdf"  target="_blank" >Scoring Guidelines 2008 Form B</a>
+
 # Question 1 (d)
 
   -   The higher interest rate reduces the outflow of funds to countries

@@ -1,3 +1,7 @@
+<a href="./exams/Free Response 2016.pdf"  target="_blank" >Free Response 2016</a>
+
+<a href="./exams/Scoring Guidelines 2016.pdf"  target="_blank" >Scoring Guidelines 2016</a> 
+
 # Question 1 (a)
 
   -   Phillips Curve

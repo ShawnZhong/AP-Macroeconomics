@@ -1,3 +1,5 @@
+<a href="./exams/Released Exam 2010.pdf"  target="_blank" >Released Exam 2010</a>
+
 # Question 25
 
   -   Leakage and injections of the circular flow

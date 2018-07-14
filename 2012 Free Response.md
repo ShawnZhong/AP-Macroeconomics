@@ -1,3 +1,5 @@
+<a href="./exams/Free Response 2012.pdf"  target="_blank" >Free Response 2012</a>
+
 # Question 1 (a)
 
   ![ce 02 iaefkdent ](./media/image235.png)

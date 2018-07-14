@@ -1,3 +1,5 @@
+<a href="./exams/Released Exam 2005.pdf"  target="_blank" >Released Exam 2005</a>
+
 # Question 3
 
   ![Types of unemployment (1) • Unemployment related to the process of

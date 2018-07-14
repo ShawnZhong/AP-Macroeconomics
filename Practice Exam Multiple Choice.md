@@ -1,3 +1,5 @@
+<a href="./exams/Practice Exam.pdf"  target="_blank" >Practice Exam</a>
+
 # Question 6
 
   -   Purchase bond --\> decrease the interest rate

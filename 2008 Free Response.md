@@ -1,3 +1,7 @@
+<a href="./exams/Free Response 2008.pdf"  target="_blank" >Free Response 2008</a>
+
+<a href="./exams/Scoring Guidelines 2008.pdf"  target="_blank" >Scoring Guidelines 2008</a>
+
 # Question 1 (a)
 
   -   The effect of the decrease in consumption spending
