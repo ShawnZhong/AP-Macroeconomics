@@ -29,7 +29,7 @@
 	* [8.1 Major Graphs Review](8.1 Major Graphs Review.md)
 
 ---
-### Exercises
+### Problem Set
 * [Sample Questions](Sample Questions.md)
 * [Practice Exam Multiple Choice](Practice Exam Multiple Choice.md)
 * [1995 Multiple Choice](1995 Multiple Choice.md)
