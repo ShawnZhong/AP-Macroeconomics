@@ -7,7 +7,7 @@ I took notes based on the videos tutorials at [educator.com](https://www.educato
 
 Problem set contains all problems that I did wrong or worth noticing
 
-You can also download a PDF version [here](AP Macroeconomics.pdf)
+You can also download a PDF version   <a href="AP-Macroeconomics.pdf"  target="_blank" >here</a>
 
 Feel free to visit my website [shawnzhong.com](https://shawnzhong.com)
 
