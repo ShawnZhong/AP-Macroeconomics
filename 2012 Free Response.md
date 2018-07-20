@@ -61,7 +61,7 @@
           services + net factor income + net international transfer** =
           -500,000 + 200,000 - 100,000 = -400,000
     
-      -   Current account deficit: CA \< 0
+      -   Current account deficit: CA < 0
     
       -   Current account surplus: CA \> 0
     

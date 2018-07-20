@@ -102,7 +102,7 @@
 
   -   Import \> Export --\> Current Account Deficit
 
-  -   Import \< Export --\> Current Account Surplus
+  -   Import < Export --\> Current Account Surplus
 
   ![Current Account A Formula for Calculating Current Accounts NCT CA is
   the Current Account. X and M the Export and Import of Goods and

@@ -329,4 +329,4 @@ aggregate supply increases. ... short-run aggregate supply decreases.
 
   -   Inflation rate \> 0: inflation
 
-  -   Inflation rate \< 0: deflation
+  -   Inflation rate < 0: deflation
