@@ -13,5 +13,8 @@
 		"sitemap": {
 			"hostname": "https://macro.shawnzhong.com/"
 		}
+	},
+	"styles": {
+		"website": "styles/website.css"
 	}
 }
