@@ -2,10 +2,10 @@
 
 ### Notes
 * [1. Introduction]()
-	* [1.1 - Intro to Economics](1.1 - Intro to Economics.md)
-	* [1.2 - Production Possibilities Frontier](1.2 - Production Possibilities Frontier.md)
-	* [1.3 - Comparative Advantage & Trade](1.3 - Comparative Advantage & Trade.md)
-	* [1.4 - Utility Maximization](1.4 - Utility Maximization.md)
+	* [1.1 Intro to Economics](1.1 - Intro to Economics.md)
+	* [1.2 Production Possibilities Frontier](1.2 - Production Possibilities Frontier.md)
+	* [1.3 Comparative Advantage & Trade](1.3 - Comparative Advantage & Trade.md)
+	* [1.4 Utility Maximization](1.4 - Utility Maximization.md)
 * [2. Measurements of Economic Performances]()
 	* [2.1 Gross Domestic Product](2.1 Gross Domestic Product.md)
 	* [2.2 Unemployment](2.2 Unemployment.md)
