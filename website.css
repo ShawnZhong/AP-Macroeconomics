@@ -4,6 +4,6 @@ li, p {
 img {
 	vertical-align: middle;
 }
-ul, ol{
+.markdown-section ul, .markdown-section ol{
 	margin-bottom: .85em !important;
 }
