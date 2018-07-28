@@ -1,3 +1,9 @@
+li, p {
+	line-height: 200%;
+}
 img {
 	vertical-align: middle;
+}
+ul, ol{
+	margin-bottom: .85em !important;
 }
