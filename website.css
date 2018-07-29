@@ -4,9 +4,9 @@ li, p {
 img {
 	vertical-align: middle;
 }
-.markdown-section ul, .markdown-section ol{
+.markdown-section ul, .markdown-section ol {
 	margin-bottom: .85em !important;
 }
-table{
+table {
 	text-align: center;
 }
