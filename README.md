@@ -1,9 +1,7 @@
 # [AP Macroeconomics](https://macro.shawnzhong.com)
-Notes and Exercises on Advanced Placement Macroeconomics. Your comments and criticism are greatly welcomed.
+Notes and Exercises on Advanced Placement Macroeconomics. I took notes based on the videos tutorials at [educator.com](https://www.educator.com/economics/ap-macroeconomics/park/) and the past exams collected below. You can also download a PDF version of the notes   <a href="AP-Macroeconomics.pdf"  target="_blank" >here</a>.
 
-I took notes based on the videos tutorials at [educator.com](https://www.educator.com/economics/ap-macroeconomics/park/), and the past exams collected below.
-
-You may want to download a PDF version of the notes   <a href="AP-Macroeconomics.pdf"  target="_blank" >here</a>, and please feel free to visit my website at [shawnzhong.com](https://shawnzhong.com).
+The source for the website is hosted on [GitHub](https://github.com/ShawnZhong/AP-Macroeconomics). 
 
 # Past Exams
 
